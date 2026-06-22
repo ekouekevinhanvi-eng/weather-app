@@ -7,7 +7,7 @@ const outfit = Outfit({
 });
 
 export const metadata = {
-  title: "Météo Dynamique",
+  title: "Météo HEK : La météo en temps réel ",
   description: "Une très belle interface utilisateur pour la météo",
 };
 
