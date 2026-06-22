@@ -74,7 +74,7 @@ export default function Home() {
     <main>
       <header className="fade-in" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '1rem', position: 'relative', zIndex: 50 }}>
         <h1 style={{ fontSize: '3rem', fontWeight: 700, display: 'flex', alignItems: 'center', gap: '0.5rem', textShadow: '0 2px 10px rgba(0,0,0,0.2)', textAlign: 'center' }}>
-          <Cloud size={48} /> Météo Dynamique
+          <Cloud size={48} /> Météo HEK : La météo en temps réel 
         </h1>
         <SearchBar onSelect={handleCitySelect} />
       </header>
